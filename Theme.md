@@ -1,12 +1,12 @@
 
 # Underscores Starter Theme
 
-**Theme URL** : https://underscores.me/
-**Author** : Automattic
-**Auther URL** : https://automattic.com/
-**Viersion** : 1.0.0
-**Requires PHP** : 5.6
-**License** : GNU General public License v2 or later
+**Theme URL** : https://underscores.me/ <br>
+**Author** : Automattic <br>
+**Auther URL** : https://automattic.com/ <br>
+**Viersion** : 1.0.0 <br>
+**Requires PHP** : 5.6 <br>
+**License** : GNU General public License v2 or later <br>
 
 Underscores theme is fully customisable theme which mean every template is unique. Also, Underscore has a few useful handy template tag. 
 
@@ -14,7 +14,7 @@ Underscores theme is fully customisable theme which mean every template is uniqu
 
 Uderscroes (or ' -s') is the most poular of all WordPress starter themes. Also, it is from the WordPress team itself. It is a minialist starter theme. The clean code is most powerful part of Underscores starter theme. It is also useful to build a standard compliant WordPress theme.
 
-Best part about Underscores on the following feature:
+Best part about Underscores on the following feature: <br>
 
 - Majority of the codebase (optimised with comments)
 - The lack of CSS (freedom for writing own stylesheets)
@@ -52,19 +52,23 @@ GNU General public License v2 or later
 We used a plugin called "Child theme configurator" which is fast and easy to create a child theme to makes a copy of the Underscores theme and we named as Labyrinth Child Theme.
 
 We added folloing information in Labyrinth Child Theme as shown below:
-
-**Theme Name** : Labyrinth Child Theme
-**Theme URL** : https://underscores.me/
-**Description** : Underscores Child Theme
-**Template** : Underscores
-**Author** : Automattic
-**Auther URL** : https://automattic.com/
-**Version** : 1.0.0
-**Updated** : 
+ 
+**Theme Name** : Labyrinth Child Theme <br>
+**Theme URL** : https://underscores.me/ <br>
+**Description** : Underscores Child Theme <br>
+**Template** : Underscores <br>
+**Author** : Automattic <br>
+**Auther URL** : https://automattic.com/ <br>
+**Version** : 1.0.0 <br>
+**Updated** :  <br>
 
 ## Updated
 
 log of updated as shown below:
 
+- Change Logo position (11/08/2022)
+- Change nav position (11/08/2022)
+- Make current page box layer (11/08/2022)
+- Make sub-menu dropbox (11/08/2022)
 - 
 
