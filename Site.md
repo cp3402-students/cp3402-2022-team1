@@ -62,5 +62,15 @@ Below is the plugins we used to create the Labyrinth Consulting website
 | Child Theme Configurator | When using the Customizer is not enough - Create child themes and customize styles, templates, functions and more.|
 
 
+# Colour setting
 
+| Element | RGB | HEX | Official Name |
+|---|---|---|---|
+| Button | (48,104,70) | #306846 | Killarney |
+| Footer | (19,19,18) | #131312 | Cod Gray |
+| Menu | (0,128,0) | #008000 | Japanese Laurel |
+| Body | (255,255,255) | #FFFFFF | White |
+| Text | (64,64,64) | #404040 | Tundora |
+| Text | (255,255,255) | #FFFFFF | White |
+|Box Frame | (246,246,246) | #F6F6F6 | Wild Sand |
 
