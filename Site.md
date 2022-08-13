@@ -64,6 +64,8 @@ Below is the plugins we used to create the Labyrinth Consulting website
 
 # Colour setting
 
+Below is the colour we used to create the Labyrinth Consulting website
+
 | Element | RGB | HEX | Official Name |
 |---|---|---|---|
 | Button | (48,104,70) | #306846 | Killarney |
