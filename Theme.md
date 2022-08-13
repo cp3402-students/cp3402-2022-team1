@@ -70,5 +70,6 @@ log of updated as shown below:
 - Change nav position (11/08/2022)
 - Make current page box layer (11/08/2022)
 - Make sub-menu dropbox (11/08/2022)
-- 
+- The background color for the sub-menu (13/08/2022)
+- Delete the extra text in the footer.php (13/08/2022)
 
