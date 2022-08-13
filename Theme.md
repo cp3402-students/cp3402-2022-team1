@@ -59,7 +59,7 @@ We added folloing information in Labyrinth Child Theme as shown below:
 **Template** : Underscores <br>
 **Author** : Automattic <br>
 **Auther URL** : https://automattic.com/ <br>
-**Version** : 1.0.0 <br>
+**Version** : 2.0.0 <br>
 **Updated** :  <br>
 
 ## Updated
@@ -72,4 +72,5 @@ log of updated as shown below:
 - Make sub-menu dropbox (11/08/2022)
 - The background color for the sub-menu (13/08/2022)
 - Delete the extra text in the footer.php (13/08/2022)
+- Upload the child theme version 2.0 (13/08/2022)
 
