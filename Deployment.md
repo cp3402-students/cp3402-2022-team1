@@ -3,10 +3,10 @@
 The following is how development is recommended for this project
 
 1. Download and install [MAMP](https://www.mamp.info/en/mac/) Which can create localhost on MAC OS as shown below.
-
+![MAMP](./image/mamp.png)
 
 2. Create a local environment WordPress.org as shown below.
-
+![WordPress](./image/wordpress_setup.png)
 
 
 
@@ -14,6 +14,7 @@ The following is how development is recommended for this project
 5. Modifications or newly created files on the local host commit to [GitHub](Labyrinth-child-2.0.0/Labyrinth-child/).
 6. New developments, edits, and updates should be recorded on the Trello board, and the version name is updated every time. The Trello board effectively manages your project and keeps a historical record of your project.
 7. Utilize a code editor such as Visual Code Studio or other IDE and run it as shown below.
+![visualcode](./image/visualcode.png)
 
 8. Create a control commit in the IDE the user is using and then push the completed work.
 9. Create a relevant pull request for the main branch.
@@ -36,7 +37,7 @@ Dreamhost offers the following:
 - Free Privacy Protection
 
 Below is what the Dream host looks like
-
+![dreamhost](./image/dreamhost.png)
 
 # Version Control
 
