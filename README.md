@@ -8,4 +8,5 @@ This is a group 1 documentations that will help new users or know how to work wi
 
 The following folder is the starter theme and the child theme used for the wensite design:
 
-- [Starter theme](./)
+- [Starter theme](./Starter Theme)
+- [Child theme](./Labyrinth-child-2.0.0)
