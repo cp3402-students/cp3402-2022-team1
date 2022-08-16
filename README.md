@@ -8,5 +8,6 @@ This is a group 1 documentations that will help new users or know how to work wi
 
 The following folder is the starter theme and the child theme used for the wensite design:
 
-- [Starter theme](./Starter Theme)
-- [Child theme](./Labyrinth-child-2.0.0)
+- [Starter theme-Underscores Starter Theme]([./Starter Theme](https://github.com/cp3402-students/cp3402-2022-team1/tree/main/Starter%20Theme))
+- [Child theme-Create by web developer](./Labyrinth-child-2.0.0)
+
