@@ -73,4 +73,5 @@ log of updated as shown below:
 - The background color for the sub-menu (13/08/2022)
 - Delete the extra text in the footer.php (13/08/2022)
 - Upload the child theme version 2.0 (13/08/2022)
-
+- Update footer.php (15/08/2022)
+- Re-make testimonials with plugin (16/08/2022)
