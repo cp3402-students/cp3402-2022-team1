@@ -27,6 +27,6 @@ This is a group 1 documentations that will help new users or know how to work wi
 - [GitHub repository - environment](./cp3402-2022-team1)
 - [Slack group](https://app.slack.com/client/T1HPNSNKT/C03LW1D2HM2)
 
-### The folling link video will present about project:
+### The following link video will present about project:
 
 Group 1 Presentation
