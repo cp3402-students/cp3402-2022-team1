@@ -3,23 +3,23 @@
 
 **Theme URL** : https://underscores.me/ <br>
 **Author** : Automattic <br>
-**Auther URL** : https://automattic.com/ <br>
-**Viersion** : 1.0.0 <br>
+**Author URL** : https://automattic.com/ <br>
+**Version** : 1.0.0 <br>
 **Requires PHP** : 5.6 <br>
 **License** : GNU General public License v2 or later <br>
 
-Underscores theme is fully customisable theme which mean every template is unique. Also, Underscore has a few useful handy template tag. 
+Underscores theme is fully customisable theme which means every template is unique. Also, Underscores has a few useful handy template tags. 
 
 # Description
 
-Uderscroes (or ' -s') is the most poular of all WordPress starter themes. Also, it is from the WordPress team itself. It is a minialist starter theme. The clean code is most powerful part of Underscores starter theme. It is also useful to build a standard compliant WordPress theme.
+Underscores (or ' -s') is the most popular of all WordPress starter themes. Also, it is from the WordPress design team itself. It is a minimalist starter theme. The clean code is most powerful part of Underscores starter theme. It is also useful to build a standard compliant WordPress theme.
 
-Best part about Underscores on the following feature: <br>
+Best part about Underscores are the following features: <br>
 
 - Majority of the codebase (optimised with comments)
 - The lack of CSS (freedom for writing own stylesheets)
-- Download directly form GitHub or official website
-- Available with a SASS confifuration
+- Downloadable directly from GitHub or official website
+- Available with a SASS configuration
 
 # Installation
 
@@ -51,14 +51,14 @@ GNU General public License v2 or later
 
 We used a plugin called "Child theme configurator" which is fast and easy to create a child theme to makes a copy of the Underscores theme and we named as Labyrinth Child Theme.
 
-We added folloing information in Labyrinth Child Theme as shown below:
+We added following information in Labyrinth Child Theme as shown below:
  
 **Theme Name** : Labyrinth Child Theme <br>
 **Theme URL** : https://underscores.me/ <br>
 **Description** : Underscores Child Theme <br>
 **Template** : Underscores <br>
 **Author** : Automattic <br>
-**Auther URL** : https://automattic.com/ <br>
+**Author URL** : https://automattic.com/ <br>
 **Version** : 2.0.0 <br>
 **Updated** :  <br>
 
