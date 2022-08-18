@@ -36,7 +36,7 @@ The following is export/import WordPress recommendations for this project :
 ![phpmyadmin](./image/phpmyadmin.png)
 
 5. Find and open **kzu_users** as shown below.
-![phpmyadmin_user](./image/phpmyadmin_user.jpg)
+![phpmyadmin_user](./image/phpMyAdmin_user.jpg)
 
 6. Copy existent ID and put user_login, user_pass, user_nicename, user_email and display_name.
 7. Find and open **kzu_usermeta** as shown below.
