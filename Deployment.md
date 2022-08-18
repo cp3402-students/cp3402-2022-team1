@@ -26,13 +26,22 @@ The following is how development is recommended for this project :
 The following is export/import WordPress recommendations for this project :
 
 1. Download and install [FileZila Client](https://filezilla-project.org/download.php?platform=osx) which can connect to your computer and web sever as shown below.
+![FileZila_Client](./image/filezilla.png)
 
 2. Quickconnect with host, username, password and port.
 3. FileZila Client allow to download/upload file to web server as shown below.
+![filezila_connected](./image/filezilla_connected.png)
+
 4. Open **phpMyAdmin** as shown below.
+![phpmyadmin](./image/phpmyadmin.png)
+
 5. Find and open **kzu_users** as shown below.
+![phpmyadmin_user](./image/phpmyadmin_user.jpg)
+
 6. Copy existent ID and put user_login, user_pass, user_nicename, user_email and display_name.
 7. Find and open **kzu_usermeta** as shown below.
+![phpmyadmin_usermeta](./image/phpmyadmin_usermeta.png)
+
 8. Copy existent kuz_capabilities, rich_editing and screen_layout_tss-sc and put user_id as same as kzu_users's ID. (This 4 usermeta are mandatory)
 
 
