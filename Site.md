@@ -58,7 +58,6 @@ Below is the plugins we used to create the Labyrinth Consulting website
 |---|---|
 | WP Go Maps (formerly WP Google Maps) | The easiest to use Google Maps plugin! Create custom Google Maps with high quality markers containing locations, descriptions, images and links. Add your customized map to your WordPress posts and/or pages quickly and easily with the supplied shortcode. No fuss. |
 | Ninja Forms | Ninja Forms is a webform builder with unparalleled ease of use and features.|
-| All-in-One WP Migration | Migration tool for all your blog data. Import or Export your blog content with a single click.|
 | Child Theme Configurator | When using the Customizer is not enough - Create child themes and customize styles, templates, functions and more.|
 | Testimonial Slider and Showcase | Best Testimonial Slider and Showcase plugin for WordPress website. Testimonials Slider plugin is most customizable and developer friendly testimonial plugin to manage your customers testimonial. |
 
