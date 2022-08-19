@@ -13,7 +13,7 @@ This is a group 1 documentations that will help new users or know how to work wi
 - [Starter Theme-Underscores Starter Theme](https://github.com/cp3402-students/cp3402-2022-team1/tree/main/Starter%20Theme)
 - [Child theme-Create by web developer](./Labyrinth-child-2.0.0)
 
-### The following file called a2(update later!) contain which are:
+### The following file called [a2](./Group1_A2.html) contain which are:
 
 - Name of group member
 - LinkedIn profiles
