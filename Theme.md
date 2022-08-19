@@ -77,4 +77,3 @@ log of updated as shown below:
 - Re-make testimonials with plugin (16/08/2022)
 - Debug testimonial page - Fix plugin's code (19/08/2022)
 - Debug contact us page - Fix Form and Map (19/08/2022)
-- 
