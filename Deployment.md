@@ -47,7 +47,7 @@ The following is export/import WordPress recommendations for this project :
 
 # Web hosting 
 
-### The staging site used [siteground](http://ruchip.sgedu.site/).
+### The staging site used [siteground](http://ruchip.sgedu.site/) and Localhost.
 ### The production site used [dreamhost](https://jihpar3.dreamhosters.com/).
 
 Dreamhost offers the following:
