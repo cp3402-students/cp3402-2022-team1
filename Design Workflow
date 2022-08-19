@@ -21,8 +21,11 @@ Event: Development of first prototype which is low-fidelity one on Balsamiq.
 Date: 26/07/2022 - 29/07/2022
 Details: After concatenating all the research so far I came up with a page layout, navigation bar and footer and a few pages to exemplify page navigation.
          This was mainly to gauge feedback from my teammates, Jo-Anne and most importantly Connie.
+         I used Balsamiq since I had prvious experience using it in Design Thinking subjects.
          Fonts, colour pallette, sourced (no copyright) graphics and filler text was presented separately for approval.
          I was given creative license over most design choices which and thus went with a minimalist design to emphasize the layout's features.
+         We attemped to create many page layouts and in the end varied the options from a tabled style for testimonials to potential image galleries to display services which can flicked trough and a cascading left and right style for testimonials.
+         These layouts were tested with information architecture principles as consistently as possible to produce and finalize the prototype and some designs were shelved.
 Outcome: Review of feedback (discussed shortly) and development of prototype 2.
          
 Event: Review of feedback received following prototype 1.
@@ -31,6 +34,20 @@ Details: Overall feedback was lukewarm, with the content assignment and navigati
          The colour pallette was positively received with the grey being the only colour they were uncertain about.
          The fonts had moderately good feedback with a few comments of it being a tad informal for a consulting firm from some users.
          The graphics and filler texts received greatly positive feedback.
+Outcome: Progress towards prototype 2 which has to be of high fidelity while taking into account feedback.
+
+Event: Iterative development of prototype 2.
+Date: 03/08/2022 - 11/08/2022
+Details: The next prototype was quite straightforward in terms of concept to develop.
+         The main objective has to create a mid to high fidelity prototype in order to minimise any creative unburden on the developing team.
+         It was completed on Figma due to it's extensive library of features which facilitate creative design.
+         We oped towards White and Black contrasting backgrounds due to the professional feel it offered while keeping the golden and green elements to keep a fresh look.
+         Fonts were streamlined towards business like one such as a Caecilia Sans Serif.
+         This process was iterated to get the optimal result on the local environment and staging areas.
+         The final design was mirrored across most web pages successfully.
+Outcome: Prototype 2 was completed and implemented onto the development areas.
+         
+         
         
          
          
